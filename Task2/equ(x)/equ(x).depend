@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1699651299 source:d:\abdoo\embedded systems diploma\zag embedded\task1\equ(x)\main.c
+	<stdio.h>
+	<stdlib.h>
+
