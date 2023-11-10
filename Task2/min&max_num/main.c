@@ -19,9 +19,7 @@ int main()
             min=B;
     }
    }else if(B>A){
-
         if(B>C){
-
             max=B;
             if(A>C){
                 min=C;
@@ -31,17 +29,11 @@ int main()
         }else{
             max=C;
             min=A;
-
         }
-
    }
-
 
    printf("The maximum number is: %i \n",max);
    printf("The minimum number is: %i \n",min);
-
-
-
 
     return 0;
 }
